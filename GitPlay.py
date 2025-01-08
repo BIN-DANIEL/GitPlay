@@ -5,3 +5,4 @@
 # @Author:      hongshaobin
 # @Time:        2025/1/8 16:16
 first ="11111"
+sec = '2222'
